@@ -12,5 +12,7 @@ Fixed Pricing: No surprises! Enjoy fixed pricing, ensuring clarity and affordabi
 Full Contract Ownership: Your creations
 
 Website: https://minthero.io/
+
 App: https://app.minthero.io/
+
 Documentation: https://docs.minthero.io/
