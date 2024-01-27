@@ -1,12 +1,16 @@
 ## Hi there 👋
 
-<!--
+### Mint Hero 🚀
+Welcome to the Mint Hero organization, where NFT minting meets simplicity!
 
-**Here are some ideas to get you started:**
+What is Mint Hero?
+Mint Hero is a revolutionary platform that empowers individuals to effortlessly mint and deploy NFT collections without the need for complex coding skills. Our codeless interface, fixed pricing, and commitment to transparency redefine the NFT creation experience.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Features 🌟
+Codeless Integration: Say goodbye to coding hassles; Mint Hero provides a seamless, user-friendly interface for NFT minting.
+Fixed Pricing: No surprises! Enjoy fixed pricing, ensuring clarity and affordability throughout the minting process.
+Full Contract Ownership: Your creations
+
+Website: https://minthero.io/
+App: https://app.minthero.io/
+Documentation: https://docs.minthero.io/
